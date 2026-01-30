@@ -25,7 +25,7 @@ This section guides you through submitting an enhancement suggestion, including 
 - Provide screenshots or videos of UI changes.
 
 ## Security
-If you discover a security vulnerability, please follow the guidelines in our [SECURITY.md](SECURITY.md) file.
+If you discover a security vulnerability, please follow the guidelines in our [SECURITY](SECURITY) file.
 
 ## Questions?
 Feel free to reach out to the project maintainer, **Omar Al Tamimi**, at **ogttamimi@gmail.com**.
