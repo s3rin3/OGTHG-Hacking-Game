@@ -370,7 +370,7 @@ This platform is intended **strictly for educational purposes**. All "exploits" 
 
 - **Author**: Omar Al Tamimi (OGT)
 - **Email**: [ogttamimi@gmail.com](mailto:ogttamimi@gmail.com)
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/OGTHG-Hacking-Game/issues)
+- **Issues**: [GitHub Issues](https://github.com/ogtamimi/OGTHG-Hacking-Game/issues)
 
 ---
 
