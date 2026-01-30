@@ -6,7 +6,7 @@
 ![Gemini](https://img.shields.io/badge/AI-Gemini_3_Flash-8E75B2?style=for-the-badge&logo=google-gemini)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**OGTHG (The OG Tamimi Hacking Game)** is a world-class, educational playground for aspiring security researchers. Created by **OGT (Omar Al Tamimi)**, it bridges the gap between theoretical security concepts and practical exploitation through high-fidelity simulations, gamified progression, and real-time AI mentorship.
+**OGTHG (OGT Hacking Game)** is a world-class, educational playground for aspiring security researchers.**, it bridges the gap between theoretical security concepts and practical exploitation through high-fidelity simulations, gamified progression, and real-time AI mentorship.
 
 ---
 
